@@ -663,7 +663,7 @@ section.about-me .container .aboutme .btn3:hover
         cursor: pointer;
         position: relative;
         right: 3rem;
-        border:0;
+        border-style: none;
     }
 
      nav  button#close-btn
